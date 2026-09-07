@@ -1,6 +1,6 @@
 # What is ARC?
 
-Reference: 
+Reference: https://github.com/actions/actions-runner-controller/blob/master/README.md
 
 ARC stands for **Actions Runner Controller**.
 
